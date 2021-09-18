@@ -10,7 +10,8 @@ Lectures 2021 for Experis Academy | Kilometro Rosso
   - Papers
 - ``` day1/ ```   :  *Introduction to computer vision, VGG, Transfer Learning*
 - ``` day2/ ```   :  *Residual Learning, Advance Tranfer Learning, Pruning*
-- ``` day2_bis/ ```   :  *Add some extra material to be fixed!! : Unsupervised on CV task! + surprise!*  
+- ``` extra/ ```   :  *some extra material useful for brief recap on KL divergence applied to CV*
+- ``` fake exam/ ```   :  *Add some extra material to be fixed!! : Unsupervised on CV task! + surprise!*  
 
 -----------------------------------------
 ### Instruction
