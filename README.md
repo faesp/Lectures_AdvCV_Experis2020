@@ -1,4 +1,4 @@
-# Lectures Advance ML for Computer Vision Experis Academy
+# Advance ML for Computer Vision Experis Academy
 Lectures 2021 for Experis Academy | Kilometro Rosso
 
 
